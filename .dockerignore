@@ -114,3 +114,10 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Docker files
+Dockerfile
+Dockerfile.*
+docker-compose.yml
+docker-compose.*.yml
+.dockerignore
